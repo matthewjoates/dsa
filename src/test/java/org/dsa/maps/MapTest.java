@@ -1,4 +1,4 @@
-package org.algorithms.maps;
+package org.dsa.maps;
 
 import org.junit.jupiter.api.BeforeEach;
 

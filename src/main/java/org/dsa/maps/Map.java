@@ -1,4 +1,4 @@
-package org.algorithms.maps;
+package org.dsa.maps;
 
 import java.util.ArrayList;
 import java.util.Iterator;

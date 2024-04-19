@@ -1,4 +1,4 @@
-package org.algorithms.arrays;
+package org.dsa.arrays;
 
 // N/2k = 1 == N/2k * 2k = 1 * 2k == N = 2k == Log2(N) = k
 // Log2(N) search on an ORDERED array

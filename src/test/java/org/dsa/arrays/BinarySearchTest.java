@@ -1,4 +1,4 @@
-package org.algorithms.arrays;
+package org.dsa.arrays;
 
 import org.junit.jupiter.api.Test;
 

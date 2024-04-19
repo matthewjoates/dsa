@@ -1,4 +1,4 @@
-package org.algorithms.arrays;
+package org.dsa.arrays;
 
 public class TwoCrystalBalls {
     public boolean search(){
