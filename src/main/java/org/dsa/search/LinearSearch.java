@@ -1,4 +1,4 @@
-package org.dsa.arrays;
+package org.dsa.search;
 
 // O(N) search
 public class LinearSearch {

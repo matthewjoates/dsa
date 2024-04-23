@@ -1,4 +1,4 @@
-package org.dsa.arrays;
+package org.dsa.search;
 
 public class TwoCrystalBalls {
     public int search(boolean[] breaks){

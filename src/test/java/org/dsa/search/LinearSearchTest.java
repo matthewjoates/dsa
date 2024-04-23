@@ -1,4 +1,4 @@
-package org.dsa.arrays;
+package org.dsa.search;
 
 import org.junit.jupiter.api.Test;
 
